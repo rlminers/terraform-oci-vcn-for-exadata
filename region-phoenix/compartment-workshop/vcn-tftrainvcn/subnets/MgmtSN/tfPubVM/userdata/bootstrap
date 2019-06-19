@@ -1,0 +1,6 @@
+#!/bin/sh
+sudo yum -y install cloud-utils-growpart
+sudo yum -y install gdisk
+sudo yum -y install libicu
+sudo reboot
+
